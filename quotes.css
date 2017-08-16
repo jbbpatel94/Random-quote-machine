@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Just+Another+Hand|Lobster');
 body {
   background : green;
+  max-width: 75%;
+  box-shadow: 3px 4px 16px rgba(0, 0, 0, 0.8);
+  padding: 14px;
+  margin: 10% auto;
 }
 .quote-box {
   background:white;
@@ -47,7 +51,7 @@ a.left , button{
 .footer { 
   margin : auto; 
   text-align : center;
-  margin-top : 5px; 
+  margin-top : 65px; 
 }
 .footer a {
   font-size :15px;
