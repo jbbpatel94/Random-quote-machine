@@ -11,6 +11,7 @@ body {
   padding:2%;
   color : white;
   border-radius : 3px;
+  box-shadow: 6px 8px 20px 20px;
 }
 .quote-text {
   text-align: center;
